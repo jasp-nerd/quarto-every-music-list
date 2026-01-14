@@ -4,7 +4,5 @@
 .Ruserdata
 
 # Quarto output
-*.html
-*_files/
 *_cache/
 /.quarto/
